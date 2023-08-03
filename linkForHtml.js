@@ -17,4 +17,3 @@ function third() {
 function final() {
     document.getElementById("hello").innerHTML = "I am in my final year"
 }
-git
