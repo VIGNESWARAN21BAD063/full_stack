@@ -1,5 +1,5 @@
 var a=120;
-// console.log("This is tha value declared in var type:"+" "+ a)
+console.log("This is tha value declared in var type:"+" "+ a)
 
 a=0
 if(a===0){
