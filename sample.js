@@ -6,8 +6,25 @@
 //     console.log("The number is 0 and adding 1 making it positive")
 // }
 
- 
-//for loop:
+//if else:
+
+
+// var a = prompt("Enter a number : ")
+// console.log("Number : " + a)
+// if (a === 0) {
+//     console.log("The number is 0 and adding 1 to make it positive")
+//     a +=1
+// }
+// else if (a > 0) {
+//     console.log("The number is positive")
+// }
+// else {
+//     console.log("The number is negative")
+// }
+
+
+
+// for loop:
 
 
 // a=5
@@ -16,7 +33,7 @@
 //   console.log(i)
 // }
 
-//While loop:
+// While loop:
 
 // i=0
 // while(i<=a){
@@ -24,7 +41,7 @@
 //     i++
 // }
 
-//for each:
+// for each:
 
 // array=[10,20]
 // array.forEach(element =>{console.log(element)});
