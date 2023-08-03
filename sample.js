@@ -41,8 +41,8 @@
 //     i++
 // }
 
-// for each:
+for each:
 
-// array=[10,20]
-// array.forEach(element =>{console.log(element)});
+array=[10,20]
+array.forEach(element =>{console.log(element)});
                                                                                           
