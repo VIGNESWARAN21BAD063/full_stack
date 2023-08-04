@@ -108,18 +108,30 @@ b = {
     color : "Blue"
 }
 
+<<<<<<< HEAD
  //accessing the object
+=======
+ accessing the object
+>>>>>>> dbeb069e1053b46a62c0122d25bee3caf5e8c1a8
 console.log(b["color"])
 console.log(b.airbags)
 var some = "model"
 console.log(b[some])
 console.log(b)
 
+<<<<<<< HEAD
 //changing the value of an object
 b.car = "BMW"
 console.log(b)
 
 //adding new value and nested object
+=======
+changing the value of an object
+b.car = "BMW"
+console.log(b)
+
+/adding new value and nested object
+>>>>>>> dbeb069e1053b46a62c0122d25bee3caf5e8c1a8
 b.sunroof = {
     is_present : "Yes",
     Shape : "Rectangle"
@@ -137,7 +149,7 @@ for (var ele in b) {
     }
 }
 
-//Functions
+Functions
 
 function fun_name(){
     console.log(5+5)
